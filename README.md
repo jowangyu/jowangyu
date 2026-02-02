@@ -10,6 +10,7 @@
 ## Projects
 - [IDA](https://github.com/CNS-DGSW)
 - [알고싶었성](https://github.com/team-daijin)
+- [개인 프로젝트](https://github.com/wangyu-side)
 
 ## Contact
 - [email](mailto:dev.jowangyu@gmail.com)
